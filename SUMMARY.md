@@ -5,4 +5,5 @@
 * [プラットフォーム](platform.md)
 * [プロトボード](board.md)
 * [ガジェット](gadget.md)
+* [Alexa](alexa.md)
 * [団体](alliance.md)
