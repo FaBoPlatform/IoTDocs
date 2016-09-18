@@ -1,8 +1,7 @@
-# BayArea docs
+# IoT docs
 
 # 本ドキュメントについて
 
-BayArea Coworking space,インキュベーター アクセサレーター情報
-
+IoT最新動向
 
 Powered by [FaBo](http://www.fabo.io)
